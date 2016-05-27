@@ -26,3 +26,25 @@ body {
 	margin-left: 5%;
 	margin-right: 5%;
 }
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: purple;
+  color: yellow;
+}
