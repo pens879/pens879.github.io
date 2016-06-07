@@ -16,8 +16,8 @@ strong {
 h1 {
 	padding: 100px;
 	margin: 200px;
-	border-style: groove
-	border-color: yellow
+	border-style: groove;
+	border-color: yellow;
 	border-width: 5px;
 	text-align: center;
 }
