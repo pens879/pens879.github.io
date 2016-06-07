@@ -16,7 +16,7 @@ strong {
 h1 {
 	padding: 100px;
 	margin: 200px;
-	border-style: strong
+	border-style: groove	
 	border-width: 5px;
 	text-align: center;
 }
