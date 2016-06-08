@@ -13,13 +13,6 @@ p {
 
 }
 
-
-.centerMe {
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	
-}	
 	
 strong {
 	font-size: 16pt;
@@ -58,6 +51,12 @@ h3 {
 	
 }
 
+.centerMe {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}	
 
 nav ul li {
 	float: relative;
@@ -72,27 +71,27 @@ nav ul li a:hover {
 }
 
 nav ul {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  padding-left: 50px;
-  background-color: #ff99cc;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 50px;
+	background-color: #ff99cc;
   
 }
 
 nav ul li {
-  float: left;
+	float: left;
   
 }
 
 nav ul li a {
-  display: block;
-  padding: 8px;
-  text-decoration: none;
-  background-color: #ff99cc;
+	display: block;
+	padding: 8px;
+	text-decoration: none;
+	background-color: #ff99cc;
   
 }
