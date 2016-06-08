@@ -8,10 +8,9 @@ body {
 }
 
 p {
-	color: black;
-	font-size: 14pt;
-	font-family: arial, helvetica, sans-serif;
+    line-height: 21px;
 }
+
 
 .centerMe {
 	margin-left: auto;
@@ -21,7 +20,7 @@ p {
 	
 strong {
 	font-size: 18pt;
-
+	
 }
 
 h1 {
@@ -37,13 +36,19 @@ h1 {
 }
 
 h2 {
+    color: #a9908c;
+    background-color: #f7f1cf;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
 	
 }
 
 
 
 nav ul li {
-	float: right;
+	float: relative;
 }
 
 nav ul li a:hover {
