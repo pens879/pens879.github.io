@@ -20,17 +20,24 @@ p {
 }	
 	
 strong {
-	font-size: 18px;
+	font-size: 18pt;
 
 }
 
 h1 {
 	padding: 100px;
+	font-size: 48 pt;
+	size: 100px;
 	margin: 100px;
 	border-style: groove;
 	border-color: yellow;
-	border-width: 5px;
+	border-width: 10px;
 	text-align: center;
+	
+}
+
+h2 {
+	
 }
 
 
