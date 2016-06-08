@@ -5,10 +5,12 @@ body {
 	color: black;
 	margin-left: 5%;
 	margin-right: 5%;
+	
 }
 
 p {
     line-height: 21px;
+
 }
 
 
@@ -50,11 +52,13 @@ h2 {
 
 nav ul li {
 	float: relative;
+	
 }
 
 nav ul li a:hover {
 	background-color: purple;
 	color: yellow;
+	
 }
 
 nav ul {
@@ -67,10 +71,12 @@ nav ul {
   padding: 0;
   padding-left: 50px;
   background-color: #ff99cc;
+  
 }
 
 nav ul li {
   float: left;
+  
 }
 
 nav ul li a {
@@ -78,8 +84,5 @@ nav ul li a {
   padding: 8px;
   text-decoration: none;
   background-color: #ff99cc;
+  
 }
-
-
-
-
