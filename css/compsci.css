@@ -1,5 +1,5 @@
 body {
-	font-family:  sans-serif;
+	font-family: arial, helvetica, sans-serif;
 	font-size: 14pt;
 	background-color: #00ffff;
 	color: black;
@@ -10,7 +10,7 @@ body {
 p {
 	color: black;
 	font-size: 14pt;
-	font-family:'Slabo, Arial;
+	font-family: arial, helvetica, sans-serif;
 }
 
 .centerMe {
@@ -60,7 +60,7 @@ nav ul {
   margin: 0;
   padding: 0;
   padding-left: 50px;
-  background-color: #dddddd;
+  background-color: #ff99cc;
 }
 
 nav ul li {
@@ -71,7 +71,7 @@ nav ul li a {
   display: block;
   padding: 8px;
   text-decoration: none;
-  background-color: #dddddd;
+  background-color: #ff99cc;
 }
 
 
