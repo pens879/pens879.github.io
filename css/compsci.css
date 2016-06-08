@@ -36,12 +36,13 @@ h1 {
 }
 
 h2 {
-    color: #a9908c;
-    background-color: #f7f1cf;
+    color: pink;
+    background-color: black;
     font-size: 1.5em;
     margin: 0;
     padding: 2px;
     padding-left: 14px;
+	text-align: center;
 	
 }
 
