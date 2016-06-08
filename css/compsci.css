@@ -47,9 +47,16 @@ h2 {
     padding: 2px;
     padding-left: 14px;
 	text-align: center;
+	font-family: 'Slabo 27px', arial;
 	
 }
 
+h3 {
+	color: black;
+	font-size: 18 pt;
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
 
 
 nav ul li {
