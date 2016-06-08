@@ -23,3 +23,4 @@
     at Object.helium.callbackTunnel (v8/app:1:588)
     at window.runtimeReady (about:blank:0:51)
     at about:blank:0:44", source: about:blank (0)
+[0608/135417:ERROR:ipc_channel_win.cc(132)] pipe error: 109
