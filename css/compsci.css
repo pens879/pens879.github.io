@@ -10,13 +10,11 @@ body {
 
 p {
     line-height: 21px;
-
 }
 
 	
 strong {
 	font-size: 16pt;
-	
 }
 
 h1 {
@@ -29,7 +27,6 @@ h1 {
 	border-width: 10px;
 	text-align: center;
 	font-family: 'Dosis', sans-serif;
-	
 }
 
 h2 {
@@ -41,33 +38,28 @@ h2 {
     padding-left: 14px;
 	text-align: center;
 	font-family: 'Slabo 27px', arial;
-	
 }
 
 h3 {
 	color: black;
 	font-size: 18 pt;
 	font-family: 'Source Sans Pro', sans-serif;
-	
 }
 
 .centerMe {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-
 }	
 
 nav ul li {
 	float: relative;
 	font-family: 'Slabo 27px', arial;
-	
 }
 
 nav ul li a:hover {
 	background-color: purple;
 	color: yellow;
-	
 }
 
 nav ul {
@@ -80,12 +72,10 @@ nav ul {
 	padding: 0;
 	padding-left: 50px;
 	background-color: #ff99cc;
-  
 }
 
 nav ul li {
 	float: left;
-  
 }
 
 nav ul li a {
@@ -93,5 +83,4 @@ nav ul li a {
 	padding: 8px;
 	text-decoration: none;
 	background-color: #ff99cc;
-  
 }
